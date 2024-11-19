@@ -1,3 +1,4 @@
+	System.out.println("");
 package Demo;
 
 public class Ex1 {
@@ -9,5 +10,8 @@ int a=10;
 	//lines from of  the eclipse
 	//again a change for the push
 	System.out.println("");
+		System.out.println("");
+	System.out.println("");
+
 }
 }
