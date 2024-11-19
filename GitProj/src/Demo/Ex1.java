@@ -12,6 +12,7 @@ int a=10;
 		System.out.println("");
 	System.out.println("");
 	// Nahhhh!!!!!!! they can't
+	//parallel thing to do 
 
 }
 }
