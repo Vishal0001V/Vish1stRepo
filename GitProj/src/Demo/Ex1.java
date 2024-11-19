@@ -1,4 +1,3 @@
-	System.out.println("");
 package Demo;
 
 public class Ex1 {
@@ -12,6 +11,7 @@ int a=10;
 	System.out.println("");
 		System.out.println("");
 	System.out.println("");
+	// Nahhhh!!!!!!! they can't
 
 }
 }
