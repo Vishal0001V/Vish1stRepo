@@ -13,6 +13,7 @@ int a=10;
 	System.out.println("");
 	// Nahhhh!!!!!!! they can't
 	//parallel thing to do 
+	//you said you did now we will we will
 
 }
 }
